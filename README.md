@@ -32,7 +32,7 @@ A modern and responsive weather application that provides real-time weather info
 
 ## 📸 Preview
 
-![Weather App Preview](screenshot.png)
+![Weather App Preview](Screenshot.png)
 
 ---
 
@@ -43,13 +43,13 @@ Follow these steps to run the project locally:
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/OP0710/weather-app-js.git
    ```
 
 2. Navigate to the project folder
 
    ```bash
-   cd weather-app
+   cd weather-app-js
    ```
 
 3. Open `index.html` in your browser
@@ -59,11 +59,11 @@ Follow these steps to run the project locally:
 ## 📁 Project Structure
 
 ```
-weather-app/
+weather-app-js/
 │── index.html
 │── style.css
 │── script.js
-│── screenshot.png
+│── Screenshot.png
 ```
 
 ---
