@@ -26,7 +26,7 @@ A modern and responsive weather application that provides real-time weather info
 
 ## 🚀 Live Demo
 
-🔗 (https://op0710.github.io/weather-app-js/)
+🔗 https://op0710.github.io/weather-app-js/
 
 ---
 
